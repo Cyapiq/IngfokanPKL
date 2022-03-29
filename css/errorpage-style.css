@@ -1,0 +1,13 @@
+.error {
+    display: flex;
+    justify-content: center;
+}
+
+.kata{
+    font-weight: 500;
+}
+
+.foto-undercons{
+    display: flex;
+    justify-content: center;
+}
